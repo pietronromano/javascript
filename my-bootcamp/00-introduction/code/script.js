@@ -1,0 +1,1 @@
+console.log("Hello, Bootcamp from the script.js file!");

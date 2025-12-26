@@ -1,6 +1,6 @@
 # Nodejs
 
-## Installing Node.js
+## Installing Node.js (and npm)
 To install Node.js, follow these steps:
 1. Go to the official Node.js website: [https://nodejs.org/](https://nodejs.org/)
 2. Download the installer for your operating system (Windows, macOS, or Linux).
